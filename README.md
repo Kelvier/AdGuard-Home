@@ -117,3 +117,19 @@ actiu, prioritzant la llista oficial d'AdGuard per la seva fiabilitat.
 | 80 | TCP | Web UI |
 | 3000 | TCP | Setup inicial |
 | 443 | TCP | HTTPS (opcional) |
+
+## Captures 
+
+Captura 1 — Dashboard principal
+<img width="1366" height="660" alt="image" src="https://github.com/user-attachments/assets/cfa13f35-9569-4470-a734-6ddd1377365e" />
+
+Captura 2 — Llistes de bloqueig actives
+<img width="1366" height="662" alt="image" src="https://github.com/user-attachments/assets/75629892-ea22-40f3-8230-0802530bdcfd" />
+
+Captura 3 — Query Log 
+<img width="618" height="626" alt="image" src="https://github.com/user-attachments/assets/a36d04bc-d7f6-42a4-9277-3147b758ddf3" />
+
+Captura 4 — Configuració DNS 
+<img width="612" height="437" alt="{6BABE1A0-6C2C-465F-BC33-F4BD4228FC76}" src="https://github.com/user-attachments/assets/1dd9249c-e535-48c6-ad5f-a6a35cafa41c" />
+
+
