@@ -132,4 +132,8 @@ Captura 3 — Query Log
 Captura 4 — Configuració DNS 
 <img width="612" height="437" alt="{6BABE1A0-6C2C-465F-BC33-F4BD4228FC76}" src="https://github.com/user-attachments/assets/1dd9249c-e535-48c6-ad5f-a6a35cafa41c" />
 
+Captura 5 - Solicitudes bloqueadas
+<img width="843" height="504" alt="image" src="https://github.com/user-attachments/assets/c19c6b3d-e037-428d-8e5a-868efb4bed71" />
+
+
 
